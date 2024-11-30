@@ -1,9 +1,12 @@
 # tk-zr Guide to get started - ReadMe.md
 tk:zr is not done yet.
-
+<br>
 😀 tk:zr or Tokenizer is a language building tool made to make buidling a programming language easier
+<br>
 #️⃣ Tokenizr is written in Python, so your lagnuage is also written in Python
-❗ Please download Python before using Tokenizer, since your language is written with Python, you will be unable to open your language without Python  
+<br>
+❗ Please download Python before using Tokenizer, since your language is written with Python, you will be unable to open your language without Python
+<br>
 ❗ To download Python, download the latest version of Python in https://www.python.org/downloads/ and click on the latest
 🔔 Remember to not remove your file or close tk:zr if your not done
 ########################
