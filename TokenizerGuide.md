@@ -10,7 +10,9 @@ tk:zr is not done yet.
 ❗ To download Python, download the latest version of Python in https://www.python.org/downloads/ and click on the latest
 <br>
 🔔 Remember to not remove your file or close tk:zr if your not done
-########################	 
+<br>
+########################
+<br> 
 ⌨️ Here is all the current set codes in Tokenizer 1.0
 <br>
 🔗 **start**, if you've not use the start command, you are not able to use the set command. You'll get a prompt asking you to give your file a name
