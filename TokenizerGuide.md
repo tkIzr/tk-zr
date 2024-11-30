@@ -21,6 +21,6 @@ tk:zr is not done yet.
 <br>
 🔗 **set var**, by using it the set command you'll be adding the create variable command, lets say that the command is cVAR, **cVAR var = Hello**
 <br>
-🔗 **set func**, set function is still not fully done with, you can use the function command liek this: function = func, **func var == Hello**, if the variable does not exist, the function will repeatingly try to find it
+🔗 **set func**, set function is still not fully done with, you can use the function command liek this: function = func, **func var == Hello then**, if the variable does not exist, the function will try to find it, type end to end the function
 <br>
 ⌨️ thats all!
